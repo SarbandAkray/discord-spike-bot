@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+PyNaCl
+yt-dlp
+pytube
+discord-py-interactions
+asyncio
